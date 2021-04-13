@@ -1,2 +1,2 @@
-# compressedair
-Clean out the dust from your computer
+# Compressed Air
+Download compressed air to clean out the dust from your computer.
